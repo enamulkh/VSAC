@@ -1,0 +1,1 @@
+echo "Current branch is $APPCENTER_BRANCH"
