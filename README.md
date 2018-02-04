@@ -1,4 +1,5 @@
-#Mobile Center sample app
+
+[![Build status](https://build.appcenter.ms/v0.1/apps/7b97b8c3-d4df-4ede-9841-ad0eff0804d6/branches/master/badge)](https://appcenter.ms)#Mobile Center sample app
 
 This is a sample app developed for iOS platform in Xcode 8.2 & Swift 3.0. 
 It demonstrates the integration of services provided through Visual Studio Mobile Center. See [this](https://www.visualstudio.com/vs/mobile-center/) for more details. 
